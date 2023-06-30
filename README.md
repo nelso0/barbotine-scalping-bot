@@ -5,7 +5,7 @@
 [![Twitter @nelsodot](https://img.shields.io/twitter/url/https/twitter.com/nelsodot.svg?style=social&label=%20%40nelsodot)](https://twitter.com/nelsorex)
 [![GitHub @nelso0](https://img.shields.io/github/followers/nelso0?label=follow&style=social)](https://github.com/nelso0)
 
-Barbotine Scalping is a crypto scalping bot betting on the market manipulation happening on Bitfinex thanks to their detailed orderbook API. Included with the bot is a indicator I created for this purpose, the 'DMW'
+Working on the BTC/USDT pair on 10-second timeframe, Barbotine Scalping is a crypto scalping bot betting on the market manipulation happening on Bitfinex thanks to their detailed orderbook API. Included with the bot is a indicator I created for this purpose, the 'DMW', which means the bid/ask delta weighted-median BTC amount per user per order ratio.
 
 ## Table of content
 * [Features](#features)
@@ -85,5 +85,19 @@ Email: [nelso@barbotine.capital](mailto:nelso@barbotine.capital)
 If you followed my precedent bot, Barbotine Arbitrage, you know that I've been working on this bot (and its strategy) for quite a long time. As the code's and strategy's quality is much much better than my precedent bot, I didn't know if I will share the source code publicly and maybe do a profit-sharing system with the profits of the bot.
 
 I finally decided to sell the source code publicly, so people can use it for their own things and learn thanks to the time I put in it, in addition of possibly making money. It's also a stabler way to earn some support money for me so I can keep developing crypto bots.
+
+The $50 package contains:
+
+* The live-working bot itself
+* The DMW indicator I created
+* 280 hours of backtest data with the DMW
+* The script to launch the backtest with graphs
+* The script to collect the compatible backtest datas with the DMW
+* Full instructions to do everything
+
+The $75 package contains:
+
+* Everything above
+* + Assistance/help on any problem you have, with me
 
 Link to get it: [https://get.barbotine.capital](https://get.barbotine.capital/product/barbotine-scalping)
