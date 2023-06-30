@@ -84,20 +84,6 @@ Email: [nelso@barbotine.capital](mailto:nelso@barbotine.capital)
 
 If you followed my precedent bot, Barbotine Arbitrage, you know that I've been working on this bot (and its strategy) for quite a long time. As the code's and strategy's quality is much much better than my precedent bot, I didn't know if I will share the source code publicly and maybe do a profit-sharing system with the profits of the bot.
 
-I finally decided to sell the source code publicly, so people can use it for their own things and learn thanks to the time I put in it, in addition of possibly making money. It's also a stabler way to earn some support money for me so I can keep developing crypto bots.
+I finally decided to sell the source code publicly, so people can use it for their own things and learn thanks to the time I put in it, in addition of making money.
 
-The $50 package contains:
-
-* The live-working bot itself
-* The DMW indicator I created
-* 280 hours of backtest data with the DMW
-* The script to launch the backtest with graphs
-* The script to collect the compatible backtest datas with the DMW
-* Full instructions to do everything
-
-The $75 package contains:
-
-* Everything above
-* Assistance/help on any problem you have, with me
-
-Link to get it: [https://get.barbotine.capital](https://get.barbotine.capital/product/barbotine-scalping)
+Link: available soon.
