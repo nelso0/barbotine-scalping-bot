@@ -98,6 +98,6 @@ The $50 package contains:
 The $75 package contains:
 
 * Everything above
-* + Assistance/help on any problem you have, with me
+* Assistance/help on any problem you have, with me
 
 Link to get it: [https://get.barbotine.capital](https://get.barbotine.capital/product/barbotine-scalping)
