@@ -34,6 +34,8 @@ Working on the BTC/USDT pair on 10-second timeframe, Barbotine Scalping is a cry
 ![ScalpingDemo2](https://media.discordapp.net/attachments/876447732259225612/1124293046306099230/scalping1.png)
 [video demo](https://www.youtube.com/watch?v=jj1aGm1p1fg)
 
+The unavoidable question: is it profitable? To answer quickly, yes you can make money with it. But this is speculation, so I'm not responsible of any kind of money you win or loose with my software, I'm a developer, not a fund manager.
+
 <a name="prerequis"/>
  
 ## Prerequisites
