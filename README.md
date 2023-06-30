@@ -12,9 +12,9 @@ Working on the BTC/USDT pair on 10-second timeframe, Barbotine Scalping is a cry
 * [Demo](#demo)
 * [Prerequisites](#prerequis)
 * [Installation](#installation)
-* [Usage](#usage)
+* [How does it work](#howwork)
 * [Contact](#contact)
-* [Real version](#full-version)
+* [How do I get it?](#full-version)
 <a name="features"/>
  
 ## Features
