@@ -50,20 +50,12 @@ The things you need before installing the software.
  
 ## Installation (when you have the source code)
 
-1. Clone the repository 
-```sh
-git clone https://github.com/nelso0/barbotine-scalping-bot # you can also download the zip file
-```
-2. Go to the repository you just cloned
-```sh
-cd barbotine-scalping-bot
-```
-3. Install all the requirements to run the arbitrage system
+1. Install all the requirements to run the scalping bot
 ```sh
 pip install -r requirements.txt
 ```
-6. Set your configuration details in [configuration.py](configuration.py)
-5. Run with:
+2. Set your configuration details in [configuration.py](configuration.py)
+3. Run with:
 ```sh
 python bot.py
 ```
