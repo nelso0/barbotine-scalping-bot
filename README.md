@@ -88,4 +88,4 @@ If you followed my precedent bot, Barbotine Arbitrage, you know that I've been w
 
 I finally decided to sell the source code publicly, so people can use it for their own things and learn thanks to the time I put in it, in addition of making money.
 
-Link: available soon.
+Link: [get.barbotine.capital](https://get.barbotine.capital/product/barbotine-scalping)
