@@ -48,7 +48,7 @@ The things you need before installing the software.
 
 <a name="installation"/>
  
-## Installation
+## Installation (when you have the source code)
 
 1. Clone the repository 
 ```sh
