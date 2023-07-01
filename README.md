@@ -84,8 +84,8 @@ Email: [nelso@barbotine.capital](mailto:nelso@barbotine.capital)
  
 ## How do I  get it?
 
-If you followed my precedent bot, Barbotine Arbitrage, you know that I've been working on this bot (and its strategy) for quite a long time. As the code's and strategy's quality is much much better than my precedent bot, I didn't know if I will share the source code publicly and maybe do a profit-sharing system with the profits of the bot.
+If you followed my precedent bot, Barbotine Arbitrage, you know that I've been working on this bot (and its strategy) for quite a long time. As the code's and strategy's quality is much much better than my precedent bot, I didn't know if I will share the source code publicly.
 
-I finally decided to sell the source code publicly, so people can use it for their own things and learn thanks to the time I put in it, in addition of making money.
+I finally decided to sell the source code publicly, so people can use it for their own things and learn.
 
-Link: [get.barbotine.capital](https://get.barbotine.capital/product/barbotine-scalping)
+Link to get the source code: [get.barbotine.capital](https://get.barbotine.capital/product/barbotine-scalping)
