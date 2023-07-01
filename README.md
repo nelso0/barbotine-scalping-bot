@@ -22,7 +22,7 @@ Working on the BTC/USDT pair on 10-second timeframe, Barbotine Scalping is a cry
 * All settings are editable (leverage, stop-loss...)
 * True trading fees support
 * Beginner-friendly functionning
-* You can use the code for any other strategy, with permanent balance, trades and P&L displaying
+* Backtests + data collecting script
 * Trend-neutral
 * User interface in terminal
 
@@ -42,8 +42,8 @@ The unavoidable question: is it profitable? To answer quickly, yes you can make 
 
 The things you need before installing the software.
 
-* Only works with Binance USD-M Futures!
-* Python 3.9+ (for windows users: if python or pip isn't recognized as a command, make sure you have installed python by checking the box "add to PATH")
+* Only compatible with Binance USD-M Futures for now!
+* Python 3.9+
 * Nothing else lol
 
 <a name="installation"/>
@@ -64,7 +64,7 @@ python bot.py
  
 ## How does it work?
 
-It's all explained as clearly as I could on my website: https://barbotine.capital
+It's will be explained as clearly as I could on my website: https://barbotine.capital
 
 ## Contact
 
@@ -76,8 +76,10 @@ Email: [nelso@barbotine.capital](mailto:nelso@barbotine.capital)
  
 ## How do I  get it?
 
-If you followed my precedent bot, Barbotine Arbitrage, you know that I've been working on this bot (and its strategy) for quite a long time. As the code's and strategy's quality is much much better than my precedent bot, I didn't know if I will share the source code publicly.
+If you followed my precedent bot, Barbotine Arbitrage, you know that I've been working on this bot (and its strategy) for quite a long time. 
 
-I finally decided to sell the source code publicly, so people can use it for their own things and learn.
+The code and strategy quality is much better, and I even developed a new market sentiment indicator for this bot, the DWM (Delta Weighted Median of BTC amount per user per order on Bitfinex).
+
+I use this bot personally, and with the long-trigger at 1.2 and short-trigger at 1.3, it's currently profitable. Please contact me if you want to talk about the bot or if you want I can share some backtests with you. (discord: nelso#1800)
 
 Link to get the source code: [get.barbotine.capital](https://get.barbotine.capital/product/barbotine-scalping)
