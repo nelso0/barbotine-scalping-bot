@@ -64,7 +64,7 @@ python bot.py
  
 ## How does it work?
 
-It's will be explained as clearly as I could on my website: https://barbotine.capital
+It's will be explained soon on my website: https://barbotine.capital
 
 ## Contact
 
