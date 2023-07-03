@@ -76,10 +76,10 @@ Email: [nelso@barbotine.capital](mailto:nelso@barbotine.capital)
  
 ## How do I  get it?
 
-If you followed my precedent bot, Barbotine Arbitrage, you know that I've been working on this bot (and its strategy) for quite a long time. 
+20 copies of the source code are available for purchase.
 
-The code and strategy quality is much better, and I even developed a new market sentiment indicator for this bot, the DWM (Delta Weighted Median of BTC amount per user per order on Bitfinex).
+It's not only the code, I'm also here to help and assist you in installation, tips on the strategy to use, so you're not left alone in the jungle. (And of course you get lifetime free updates of the trading system, new exchanges compatibility etc.)
 
-I use this bot personally, and with the long-trigger at 1.2 and short-trigger at 1.3, it's currently profitable. Please contact me if you want to talk about the bot or if you want I can share some backtests with you. (discord: nelso#1800)
+I'm currently profitable with Barbotine Scalping. Please contact me if you want to talk about the bot or if you want I can share some backtests with you. (discord: nelso#1800)
 
-Link to get the source code: [get.barbotine.capital](https://get.barbotine.capital/product/barbotine-scalping)
+Link: [get.barbotine.capital](https://get.barbotine.capital/product/barbotine-scalping)
