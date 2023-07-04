@@ -23,7 +23,7 @@ Working on the BTC/USDT pair on 10-second timeframe, Barbotine Scalping is a cry
 
 * All settings are editable (leverage, stop-loss...)
 * True trading fees support
-* Beginner-friendly functionning
+* Not based on technical indicators bullshit, only on orderbook moves
 * Backtests + data collecting script
 * Trend-neutral
 * User interface in terminal
