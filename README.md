@@ -7,7 +7,7 @@
 
 [For profitability reasons, the source code is now available for financial supporters only.]
 
-Working on the BTC/USDT pair on 10-second timeframe, Barbotine Scalping is a crypto scalping bot betting on the market manipulation happening on Bitfinex thanks to their detailed orderbook API. Included with the bot is a indicator I created for this purpose, the 'DWM', which means the bid/ask delta weighted-median BTC amount per user per order ratio.
+Working on 10-second timeframe, Barbotine Scalping is a crypto scalping bot betting on the market manipulation happening on Bitfinex thanks to their detailed orderbook API. Included with the bot is a indicator I created for this purpose, the 'DWM', which means the bid/ask delta weighted-median BTC amount per user per order ratio.
 
 ## Table of content
 * [Features](#features)
