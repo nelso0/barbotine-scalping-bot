@@ -84,4 +84,4 @@ It's not only the code, I'm also here to help and assist you in installation, ti
 
 I'm currently profitable with Barbotine Scalping. Please contact me if you want to talk about the bot or if you want I can share some backtests with you. (discord: nelso#1800)
 
-Link: [get.barbotine.capital](https://get.barbotine.capital/product/barbotine-scalping)
+Link: [barbotine.capital/scalping](https://barbotine.capital/purchase-scalping)
