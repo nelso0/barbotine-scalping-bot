@@ -78,10 +78,4 @@ Email: [nelso@barbotine.capital](mailto:nelso@barbotine.capital)
  
 ## How do I  get it?
 
-20 copies of the source code are available for purchase.
-
-It's not only the code, I'm also here to help and assist you in installation, tips on the strategy to use, so you're not left alone in the jungle. (And of course you get lifetime free updates of the trading system, new exchanges compatibility etc.)
-
-I'm currently profitable with Barbotine Scalping. Please contact me if you want to talk about the bot or if you want I can share some backtests with you. (discord: nelso#1800)
-
-Link: [barbotine.capital/scalping](https://barbotine.capital/purchase-scalping)
+More information here: [barbotine.capital/scalping](https://barbotine.capital/purchase-scalping)
