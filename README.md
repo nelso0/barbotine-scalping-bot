@@ -5,7 +5,7 @@
 [![Twitter @nelsodot](https://img.shields.io/twitter/url/https/twitter.com/nelsodot.svg?style=social&label=%20%40nelsodot)](https://twitter.com/nelsorex)
 [![GitHub @nelso0](https://img.shields.io/github/followers/nelso0?label=follow&style=social)](https://github.com/nelso0)
 
-[For profitability reasons, the source code is now available for financial supporters only.]
+/!\ The code isn't in this repo, I made it private, available only for financial supporters, check it out [here](https://barbotine.capital/purchase-scalping) /!\
 
 Working on 10-second timeframe, Barbotine Scalping is a crypto scalping bot betting on the market manipulation happening on Bitfinex thanks to their detailed orderbook API. Included with the bot is a indicator I created for this purpose, the 'DWM', which means the bid/ask delta weighted-median BTC amount per user per order ratio.
 
@@ -34,9 +34,13 @@ Working on 10-second timeframe, Barbotine Scalping is a crypto scalping bot bett
 
 ![ScalpingDemo1](https://media.discordapp.net/attachments/876447732259225612/1124293045987315712/scalping0.png)
 ![ScalpingDemo2](https://media.discordapp.net/attachments/876447732259225612/1124293046306099230/scalping1.png)
+![Barbotine Scalping results](https://media.discordapp.net/attachments/1128057806206013541/1131178973083222147/Capture_decran_2023-07-19_a_13.01.05.png)
+This is my indicator, you can see here it predicted this fall:
+![DWM indicator](https://media.discordapp.net/attachments/1128057806206013541/1130986185334980669/image.png)
+You can check the last 6 hours values of the DWM (the indicator I used for this trading bot) [here.](https://barbotine.capital/dwm)
 [video demo](https://www.youtube.com/watch?v=jj1aGm1p1fg)
 
-The unavoidable question: is it profitable? To answer quickly, yes you can make money with it. But this is speculation, so I'm not responsible of any kind of money you win or loose with my software, I'm a developer, not a fund manager.
+The unavoidable question: is it profitable? To answer quickly, yes you can make money with it, and I made money with it. But this is speculation, so I'm not responsible of any kind of money you win or loose with my software, I'm a developer, not a fund manager.
 
 <a name="prerequis"/>
  
@@ -44,7 +48,7 @@ The unavoidable question: is it profitable? To answer quickly, yes you can make 
 
 The things you need before installing the software.
 
-* Only compatible with Binance USD-M Futures for now!
+* Only compatible with Binance USD-M futures, Kucoin futures and Poloniex futures for now!
 * Python 3.9+
 * Nothing else lol
 
