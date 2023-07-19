@@ -5,7 +5,7 @@
 [![Twitter @nelsodot](https://img.shields.io/twitter/url/https/twitter.com/nelsodot.svg?style=social&label=%20%40nelsodot)](https://twitter.com/nelsorex)
 [![GitHub @nelso0](https://img.shields.io/github/followers/nelso0?label=follow&style=social)](https://github.com/nelso0)
 
-/!\ The code isn't in this repo, I made it private, available only for financial supporters, check it out [here](https://barbotine.capital/purchase-scalping) /!\
+⚠️ The code isn't in this repo, I made it private, available only for financial supporters, check it out [here](https://barbotine.capital/purchase-scalping) ⚠️
 
 Working on 10-second timeframe, Barbotine Scalping is a crypto scalping bot betting on the market manipulation happening on Bitfinex thanks to their detailed orderbook API. Included with the bot is a indicator I created for this purpose, the 'DWM', which means the bid/ask delta weighted-median BTC amount per user per order ratio.
 
