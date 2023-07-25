@@ -36,7 +36,7 @@ Working on 10-second timeframe, Barbotine Scalping is a crypto scalping bot bett
 ![ScalpingDemo2](https://media.discordapp.net/attachments/876447732259225612/1124293046306099230/scalping1.png)
 ![ScalpingDemoResults](https://media.discordapp.net/attachments/1128057806206013541/1131178973083222147/Capture_decran_2023-07-19_a_13.01.05.png)
 This is my indicator, you can see here it predicted this fall:
-![DWM indicator](https://media.discordapp.net/attachments/1128057806206013541/1130986185334980669/image.png)
+![DWM indicator](https://cdn.discordapp.com/attachments/876447732259225612/1133362934832185344/IMG_2034.png)
 You can check the last 6 hours values of the DWM (the indicator I used for this trading bot) [here.](https://barbotine.capital/dwm)
 
 
