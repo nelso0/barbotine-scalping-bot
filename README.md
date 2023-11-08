@@ -83,4 +83,4 @@ Email: [nelso@barbotine.capital](mailto:nelso@barbotine.capital)
  
 ## How do I  get it?
 
-The source code is now available for purchase: [barbotine.capital/purchase-scalping](https://barbotine.capital/purchase-scalping)
+The source code is now available for purchase: [nelso.sell.app/product/barbotine-scalping-bot-lifetime](https://nelso.sell.app/product/barbotine-scalping-bot-lifetime)
