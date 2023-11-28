@@ -75,7 +75,7 @@ It's all explained on my website: [https://barbotine.capital](https://barbotine.
 
 ## Contact
 
-Discord: nelso#1800
+Discord: nelsorex
 
 Email: [nelso@barbotine.capital](mailto:nelso@barbotine.capital)
 
