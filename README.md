@@ -71,16 +71,16 @@ python bot.py
  
 ## How does it work?
 
-It's all explained on my website: [https://barbotine.capital](https://barbotine.capital/scalping)
+It's all explained on my website: [https://barbotine.capital](https://barbotine.xyz/scalping)
 
 ## Contact
 
 Discord: nelsorex
 
-Email: [nelso@barbotine.capital](mailto:nelso@barbotine.capital)
+Email: [nelso@barbotine.xyz](mailto:nelso@barbotine.xyz)
 
 <a name="full-version"/>
  
 ## How do I  get it?
 
-The source code is now available for purchase: [barbotine.capital/scalping](https://barbotine.capital/pricing)
+The source code is now available for purchase: [barbotine.xyz/scalping](https://barbotine.xyz/pricing)
