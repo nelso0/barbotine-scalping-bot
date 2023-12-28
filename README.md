@@ -71,7 +71,7 @@ python bot.py
  
 ## How does it work?
 
-It's all explained on my website: [https://barbotine.capital](https://barbotine.xyz/scalping)
+It's all explained on my website: [https://barbotine.xyz](https://barbotine.xyz/scalping)
 
 ## Contact
 
