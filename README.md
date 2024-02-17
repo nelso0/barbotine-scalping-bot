@@ -83,4 +83,4 @@ Email: [nelso@barbotine.xyz](mailto:nelso@barbotine.xyz)
  
 ## How do I  get it?
 
-The source code is now available for purchase: [barbotine.xyz/scalping](https://barbotine.xyz/pricing)
+The source code is now available for purchase: [barbotine.xyz/shop](https://barbotine.xyz/shop)
