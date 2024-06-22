@@ -14,7 +14,6 @@ Working on 10-second timeframe, Barbotine Scalping is a crypto scalping bot bett
 * [Demo](#demo)
 * [Prerequisites](#prerequis)
 * [Installation](#installation)
-* [How does it work](#howwork)
 * [Contact](#contact)
 * [How do I get it?](#full-version)
 <a name="features"/>
@@ -67,12 +66,6 @@ pip install -r requirements.txt
 python bot.py
 ```
 
-<a name="howwork"/>
- 
-## How does it work?
-
-It's all explained on my website: [https://barbotine.xyz](https://barbotine.xyz/scalping)
-
 ## Contact
 
 Discord: nelsorex
@@ -83,4 +76,4 @@ Email: [nelso@barbotine.xyz](mailto:nelso@barbotine.xyz)
  
 ## How do I  get it?
 
-The source code is now available for purchase: [barbotine.xyz/shop](https://barbotine.xyz/shop)
+Source code available for Barbotine Capital supporters: [barbotine.xyz/](https://barbotine.xyz/)
