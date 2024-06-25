@@ -5,7 +5,7 @@
 [![Twitter @nelsorex](https://img.shields.io/twitter/url/https/twitter.com/nelsorex.svg?style=social&label=%20%40nelsorex)](https://twitter.com/nelsorex)
 [![GitHub @nelso0](https://img.shields.io/github/followers/nelso0?label=follow&style=social)](https://github.com/nelso0)
 
-⚠️ The code isn't in this repo, I made it private, more info [here](#full-version). ⚠️
+⚠️ The code isn't in this repo, it's available for Capital supporters, more info [here](#full-version). ⚠️
 
 Working on 10-second timeframe, Barbotine Scalping is a crypto scalping bot betting on the market manipulation happening on Bitfinex thanks to their detailed orderbook API. Included with the bot is a indicator I created for this purpose, the 'DWM', which means the bid/ask delta weighted-median BTC amount per user per order ratio.
 
@@ -48,7 +48,6 @@ The unavoidable question: is it profitable? To answer quickly, yes you can make 
 
 The things you need before installing the software.
 
-* Only compatible with Binance USD-M futures, Kucoin futures and Poloniex futures for now!
 * Python 3.9+
 * Nothing else lol
 
