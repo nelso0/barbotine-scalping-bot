@@ -31,13 +31,6 @@ Working on 10-second timeframe, Barbotine Scalping is a crypto scalping bot bett
  
 ## Demo
 
-![ScalpingDemo1](https://media.discordapp.net/attachments/876447732259225612/1124293045987315712/scalping0.png)
-![ScalpingDemo2](https://media.discordapp.net/attachments/876447732259225612/1124293046306099230/scalping1.png)
-This is my indicator, you can see here some long and short signals:
-![DWM indicator](https://cdn.discordapp.com/attachments/876447732259225612/1133362934832185344/IMG_2034.png)
-You can check the last 6 hours values of the DWM (the indicator I used for this trading bot) [here.](https://barbotine.xyz/dwm)
-
-
 [video demo](https://www.youtube.com/watch?v=jj1aGm1p1fg)
 
 The unavoidable question: is it profitable? To answer quickly, yes you can make money with it, and I made money with it. But this is speculation, so I'm not responsible of any kind of money you win or loose with my software, I'm a developer, not a fund manager.
